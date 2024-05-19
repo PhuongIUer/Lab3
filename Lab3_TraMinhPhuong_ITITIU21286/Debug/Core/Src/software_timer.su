@@ -1,0 +1,9 @@
+../Core/Src/software_timer.c:25:6:setTimerState	16	static
+../Core/Src/software_timer.c:29:6:setTimerSwitch	16	static
+../Core/Src/software_timer.c:33:6:setTimer0	16	static
+../Core/Src/software_timer.c:37:6:setTimer1	16	static
+../Core/Src/software_timer.c:41:6:setTimer2	16	static
+../Core/Src/software_timer.c:45:6:setTimer_RED	16	static
+../Core/Src/software_timer.c:49:6:setTimer_AMB	16	static
+../Core/Src/software_timer.c:53:6:setTimer_GREEN	16	static
+../Core/Src/software_timer.c:57:6:timerRun	4	static
